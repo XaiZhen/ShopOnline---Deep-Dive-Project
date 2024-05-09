@@ -44,3 +44,26 @@ In Section 4 - Visualisation, it includes:
 1. A dashboard
 2. A infographic
 3. A Visual Story
+
+
+
+Preview of some of the Figure:
+
+<p align="center">
+ <img width="980" alt="image" src="https://github.com/XaiZhen/ShopOnline---Deep-Dive-Project/assets/157572976/fa006f14-7969-4d66-8f1c-2a51a308b647">
+
+<img width="969" alt="image" src="https://github.com/XaiZhen/ShopOnline---Deep-Dive-Project/assets/157572976/feef067d-c75f-46f4-8442-fa5509da368b">
+
+<img width="972" alt="image" src="https://github.com/XaiZhen/ShopOnline---Deep-Dive-Project/assets/157572976/b790d6fb-d76a-4bf4-bf51-141f62f0a3c1">
+
+<img width="992" alt="image" src="https://github.com/XaiZhen/ShopOnline---Deep-Dive-Project/assets/157572976/7d29d077-4572-475a-8798-e5d07b5fe8b2">
+
+<img width="1076" alt="image" src="https://github.com/XaiZhen/ShopOnline---Deep-Dive-Project/assets/157572976/67e5aa64-8ac4-4af3-88c1-4ded74a0930d">
+
+<img width="1084" alt="image" src="https://github.com/XaiZhen/ShopOnline---Deep-Dive-Project/assets/157572976/3a33459c-8002-4153-8453-846d6769d6b6">
+
+<img width="991" alt="image" src="https://github.com/XaiZhen/ShopOnline---Deep-Dive-Project/assets/157572976/1ed225aa-e022-479d-a1e2-63b759a96bbe">
+
+<img width="989" alt="image" src="https://github.com/XaiZhen/ShopOnline---Deep-Dive-Project/assets/157572976/405fd4eb-57ed-44fc-bcc1-8a1630e022a2">
+
+</p>
