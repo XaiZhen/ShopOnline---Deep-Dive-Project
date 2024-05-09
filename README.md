@@ -1,4 +1,5 @@
-# ShopOnline---Deep-Dive-Project
+
+# Deep Dive into the ShopOnline - Ecommerce Project
 Use the same dataset as the 'Data Driven Insights - Ecommerce Company' project, but this project report is a deeper dive into the data.
 
 ShopOnline is an E-commerce enterprise that specializes in the merchandising of gifts. This report is a general annual sales analysis for the company. The report will contain many textual analysis, tables, charts, and interactive dashboards for the reader to visualize and understand in detail.
